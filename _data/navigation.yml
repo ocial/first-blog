@@ -2,12 +2,12 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: https://ocial.github.io
   - title: "Contents"
     url: /contents/
-  - title: "Project"
-    url: /project/
+  - title: "About"
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
