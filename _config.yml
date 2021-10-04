@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "ocial's blog"
 title_separator          : "&#124;"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Ocial"
+name                     : "ocial"
 description              : "social - s = ocial"
 url                      : "https://ocial.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ocial"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "social - s = ocial"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
