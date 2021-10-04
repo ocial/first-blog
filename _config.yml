@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kkoding Ocial"
+  name             : "Ocial"
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software & Machine Learning Engineer"
+  bio              : "social - s = ocial"
   location         : "Seoul, Korea"
   email            :
   links:
