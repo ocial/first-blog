@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ocial"
+  name             : "Trevor Oh"
   avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "social - s = ocial"
   location         : "Seoul, Korea"
