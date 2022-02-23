@@ -6,11 +6,17 @@ main:
   #   url: https://ocial.github.io
   - title: "About"
     url: /about/
-  - title: "Contents"
-    url: /contents/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Coder"
+    url: /coder/
+    children:
+      - title: "Coder 1"
+        url: /coder-1/
+      - title: "Coder 2"
+        url: /coder-2/
+  - title: "Innovator"
+    url: /innovator/
+  - title: "Scholar"
+    url: /scholar/
+  # - title: "Trevor"
+  #   url: /trevor/
+
